@@ -3,7 +3,7 @@
 	"name": "Focused StackExchange",
 	"version": "1.0.0",
 	"author": "Eric Xing",
-	"description": "Hides clutter from Stack Exchange",
+	"description": "Hides clutter from StackOverflow/StackExchange",
 	"icons": {
 		"48": "icons/icon-48.png",
 		"128": "icons/icon-128.png"
