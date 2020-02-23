@@ -1,0 +1,37 @@
+body {
+	overflow-x: hidden;
+}
+body > .container {
+    max-width: unset;
+}
+
+#left-sidebar {
+	position: fixed !important;
+	height: 100%;
+	left: -100px;
+    transition: all .1s cubic-bezier(.22,.61,.36,1);
+    border-right: 1px solid white;
+}
+#left-sidebar:hover {
+	left: 0px;
+}
+
+#sidebar {
+	position: absolute;
+	right: -220px;
+	transition: all .1s cubic-bezier(.22,.61,.36,1);
+	padding: 10px;
+}
+#sidebar:hover {
+    right: 0px !important;
+}
+
+#content {
+	width: calc(100% - 150px);
+    max-width: unset;
+    border: none;
+}
+
+#mainbar {
+	width: 100%;
+}
