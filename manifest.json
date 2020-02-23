@@ -15,7 +15,8 @@
 	"content_scripts": [
 		{
 			"matches": [
-				"*://*.stackoverflow.com/*"
+				"*://*.stackoverflow.com/*",
+				"*://*.stackexchange.com/*"
 			],
 			"run_at": "document_start",
 			"css": [
@@ -24,7 +25,9 @@
 		},
 		{
 			"matches": [
-				"*://*.stackoverflow.com/*"
+				"*://*.stackoverflow.com/*",
+				"*://*.stackexchange.com/*"
+
 			],
 			"run_at": "document_end",
 			"js": [
