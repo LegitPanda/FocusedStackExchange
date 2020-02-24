@@ -11,9 +11,11 @@
         left: 0px;
         transition: all .1s cubic-bezier(.22,.61,.36,1);
         border-right: 1px solid white;
+        opacity: 0.3;
     }
     #left-sidebar:hover {
         left: 100px;
+        opacity: 1;
     }
     
     #sidebar {
@@ -23,9 +25,11 @@
         z-index: 10;
         transition: all .1s cubic-bezier(.22,.61,.36,1);
         padding: 10px;
+        opacity: 0.3;
     }
     #sidebar:hover {
-        right: -100px !important;
+        right: -100px;
+        opacity: 1;
     }
     
     #content {

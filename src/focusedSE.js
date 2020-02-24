@@ -8,5 +8,4 @@ window.addEventListener('DOMContentLoaded', () => {
 	if (sidebar) {
 		sidebar.style.backgroundColor = bgColor;
 	}
-	console.log(bgColor);
 })
