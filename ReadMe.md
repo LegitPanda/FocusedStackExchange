@@ -6,3 +6,9 @@ Tired of the default StackExchange/StackOverflow wasting precious real estate, b
 - Compatible with CSS styles of most SE communities
 - Compatible with other extensions which changes the SE theme (ie DarkReader)
 - It's fast as hell. You won't even notice it loading
+- It's free and open source
+
+demo:
+https://i.imgur.com/RbWVfOR.gifv
+
+get it here: https://addons.mozilla.org/en-US/firefox/addon/focused-stackexchange
