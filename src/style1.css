@@ -33,12 +33,16 @@
     }
     
     #content {
+        max-width: unset !important;
         width: calc(100% - 150px);
-        max-width: unset;
         border: none;
     }
     
     #mainbar {
         width: 100%;
+    }
+
+    .container {
+        max-width: unset !important;
     }
 }
