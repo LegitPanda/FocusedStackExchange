@@ -16,7 +16,12 @@
 		{
 			"matches": [
 				"*://*.stackoverflow.com/*",
-				"*://*.stackexchange.com/*"
+				"*://*.stackexchange.com/*",
+				"*://*.askubuntu.com/*",
+				"*://*.mathoverflow.net/*",
+				"*://*.serverfault.com/*",
+				"*://*.stackapps.com/*",
+				"*://*.superuser.com/*"
 			],
 			"run_at": "document_start",
 			"js": [
