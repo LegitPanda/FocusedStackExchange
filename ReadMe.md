@@ -8,8 +8,8 @@ Tired of the default StackExchange/StackOverflow wasting precious real estate, b
 - It's fast as hell. You won't even notice it loading
 - It's free and open source
 
-demo:
-https://i.imgur.com/RbWVfOR.gifv
+### Demo
+![Demo](https://i.imgur.com/RbWVfOR.gif)
 
 ### Get it on Firefox: 
 https://addons.mozilla.org/en-US/firefox/addon/focused-stackexchange
