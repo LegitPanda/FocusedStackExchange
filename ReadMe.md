@@ -11,4 +11,8 @@ Tired of the default StackExchange/StackOverflow wasting precious real estate, b
 demo:
 https://i.imgur.com/RbWVfOR.gifv
 
-get it here: https://addons.mozilla.org/en-US/firefox/addon/focused-stackexchange
+### Get it on Firefox: 
+https://addons.mozilla.org/en-US/firefox/addon/focused-stackexchange
+
+### Get it on Chrome: 
+https://chrome.google.com/webstore/detail/focused-stackexchange/fjgmedaokmacclphgobpaaemegpdiino
